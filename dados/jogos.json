@@ -1,0 +1,74 @@
+[
+  {
+    "nome": "Fricativos Jump",
+    "descricao": "Controle Morcegoid em uma aventura 3D no estilo corrida infinita, inspirada no clássico jogo do dinossauro do Google. Salte sobre obstáculos, colete itens e avance o máximo possível enquanto pratica a produção dos fonemas fricativos por meio de desafios interativos ao longo da partida.",
+    "plataformas": "Web e Computador",
+    "banner": "banners/fricativos-jump.webp",
+    "link": "https://brincolar.itch.io/fricativos-jump-completo",
+    "destaque": true
+  },
+  {
+    "nome": "Plosivos Surf",
+    "descricao": "Assuma o controle de uma pequena piranha em uma corrida cheia de desafios por um rio repleto de obstáculos. Inspirado nos jogos de corrida infinita, como Subway Surfers, o jogador precisa desviar de bombas e sobreviver o maior tempo possível enquanto pratica a produção dos fonemas plosivos em atividades integradas à experiência.",
+    "plataformas": "Web e Computador",
+    "banner": "banners/plosivos-surf.webp",
+    "link": "https://brincolar.itch.io/plosivos-surf",
+    "destaque": true
+  },
+  {
+    "nome": "Reisado Mask Workshop",
+    "descricao": "Desenvolvido durante a Global Game Jam 2026, este jogo 2D convida os jogadores a criarem suas próprias máscaras inspiradas na tradição cultural do Reisado. Ao final da atividade, é possível visualizar um personagem utilizando a máscara criada e fazer o download da arte produzida.",
+    "plataformas": "Web e Computador",
+    "banner": "banners/reisado-mask-workshop.webp",
+    "link": "https://gabura.itch.io/reisado-mask-workshop",
+    "destaque": true
+  },
+  {
+    "nome": "Um Mar de Caras Estranhos",
+    "descricao": "Criado durante a 1ª GameJam CE, este jogo em Realidade Virtual leva os jogadores a explorar uma cidade subaquática repleta de desafios e descobertas. Durante a jornada, é possível conhecer espécies da fauna e da flora marinha, além de aprender sobre sua importância para o equilíbrio dos ecossistemas.",
+    "plataformas": "Roblox",
+    "banner": "banners/um-mar-de-caras-estranhos.webp",
+    "link": "https://gabura.itch.io/mar-de-caras-estranhas",
+    "destaque": false
+  },
+  {
+    "nome": "Obby VR da Tia Dálete",
+    "descricao": "Uma experiência de plataforma 3D inspirada nos tradicionais mapas de parkour. O jogo apresenta diversos caminhos, obstáculos e desafios de habilidade, além de incluir um museu virtual com conteúdos relacionados à Fonoaudiologia. Uma experiência educativa e colaborativa disponível na plataforma Roblox.",
+    "plataformas": "Roblox",
+    "banner": "banners/obby-vr-tia-dalete.webp",
+    "link": "https://brincolar.itch.io/obby-vr-da-tia-dalete",
+    "destaque": false
+  },
+  {
+    "nome": "Memória das Rimas",
+    "descricao": "Um divertido jogo da memória que estimula a consciência fonológica por meio de pares de palavras que rimam. Os jogadores devem encontrar as combinações corretas enquanto desenvolvem habilidades importantes para a linguagem e a alfabetização.",
+    "plataformas": "Web e Mobile",
+    "banner": "banners/memoria-das-rimas.webp",
+    "link": "https://gaburadigital.github.io/MEMORIA-DAS-RIMAS/",
+    "destaque": true
+  },
+  {
+    "nome": "Foodtruck da Memória",
+    "descricao": "Neste minigame voltado para a memória fonológica, o jogador administra um food truck e precisa montar hambúrgueres seguindo corretamente os pedidos dos clientes. Atenção, memória e velocidade são essenciais para conquistar a melhor pontuação.",
+    "plataformas": "Web e Mobile",
+    "banner": "banners/foodtruck-da-memoria.webp",
+    "link": "https://gaburadigital.github.io/Food-Truck-da-Memoria/",
+    "destaque": true
+  },
+  {
+    "nome": "Quebra-Cabeça do Intruso",
+    "descricao": "Monte a imagem peça por peça e, ao final, descubra qual elemento não pertence à cena. Este minigame combina raciocínio visual, atenção aos detalhes e habilidades de categorização de forma divertida e acessível.",
+    "plataformas": "Web e Mobile",
+    "banner": "banners/quebra-cabeca-do-intruso.webp",
+    "link": "https://gaburadigital.github.io/QUEBRA-CABECA-INTRUSO/",
+    "destaque": true
+  },
+  {
+    "nome": "Labirinto do R Vibrante",
+    "descricao": "Explore um misterioso labirinto 3D inspirado nos ambientes das Backrooms. Para avançar, o jogador deve encontrar palavras com o fonema R vibrante espalhadas pelo cenário, estimulando a percepção e o reconhecimento desse som de forma lúdica.",
+    "plataformas": "Web e Mobile",
+    "banner": "banners/labirinto-r-vibrante.webp",
+    "link": "https://gaburadigital.github.io/labirinto-r-vibrante/",
+    "destaque": true
+  }
+]
